@@ -1,3 +1,5 @@
 ### Multiplayer platformer core
 
-#### 4 player support, not tested across networks yet.
+#### 4 player support, tested across networks.
+
+#### Added Menu GUI. In early testing.
